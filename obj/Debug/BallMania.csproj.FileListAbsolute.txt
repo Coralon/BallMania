@@ -1,0 +1,10 @@
+C:\Users\s201413\source\repos\BallMania\bin\Debug\BallMania.exe.config
+C:\Users\s201413\source\repos\BallMania\bin\Debug\BallMania.exe
+C:\Users\s201413\source\repos\BallMania\bin\Debug\BallMania.pdb
+C:\Users\s201413\source\repos\BallMania\obj\Debug\BallMania.csprojAssemblyReference.cache
+C:\Users\s201413\source\repos\BallMania\obj\Debug\BallMania.exe
+C:\Users\s201413\source\repos\BallMania\obj\Debug\BallMania.pdb
+C:\Users\s201413\source\repos\BallMania\bin\Debug\BallMania.exe.manifest
+C:\Users\s201413\source\repos\BallMania\bin\Debug\BallMania.application
+C:\Users\s201413\source\repos\BallMania\obj\Debug\BallMania.exe.manifest
+C:\Users\s201413\source\repos\BallMania\obj\Debug\BallMania.application
