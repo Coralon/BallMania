@@ -1,0 +1,2 @@
+# BallMania
+Simple console game
