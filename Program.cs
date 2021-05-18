@@ -63,11 +63,15 @@ namespace BallMania
                 newScore = ShootBasket();
                 if (newScore == 0)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     PrintMessage("You missed, try again.\n");
+                    Console.ResetColor();
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.Green;
                     PrintMessage("You scored " + newScore + " points.\n");
+                    Console.ResetColor();
                 }
                 AddToScore(newScore);
             }
